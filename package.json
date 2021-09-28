@@ -1,0 +1,23 @@
+{
+  "name": "MyPets-RestApi",
+  "version": "1.0.0",
+  "description": "Sistema de controle de pets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lndsilva/MyPets-RestApi.git"
+  },
+  "keywords": [],
+  "author": "lndsilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lndsilva/MyPets-RestApi/issues"
+  },
+  "homepage": "https://github.com/lndsilva/MyPets-RestApi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
